@@ -15,9 +15,9 @@ Requirements
 * Python 2.7 or Python 3.3+
 * Scrapy
 * Works on Linux, Windows, Mac OSX, BSOverview
-========
 
-## Usage
+Usage
+============
 
 #### How to deploy and run
 ```
