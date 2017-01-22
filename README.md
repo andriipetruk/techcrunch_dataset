@@ -24,12 +24,12 @@ Requirements
 Usage
 ============
 
-#### Data set (2016-10-05 05:00:59 - 2017-01-21 03:31:03)
+#### Data set in json format (2016-10-05 05:00:59 - 2017-01-21 03:31:03)
 
 https://raw.githubusercontent.com/andriipetruk/techcrunch_dataset/master/news.json
 
 
-#### How to deploy and run
+#### How to deploy and run spyder for get fresh data set
 ```
 1. git clone git@github.com:andriipetruk/techcrunch_dataset.git
 2. cd techcrunch_dataset
