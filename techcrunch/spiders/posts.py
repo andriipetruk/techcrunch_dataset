@@ -10,7 +10,7 @@ class PostsSpider(scrapy.Spider):
     allowed_domains = ["techcrunch.com"]
     start_urls = ['https://techcrunch.com/']
     # Generate list of the pages 
-    for page in range(2,202):
+    for page in range(2,1002):
     	start_urls.append('https://'+allowed_domains[0]+'/page/'+str(page)+'/')
 
     def parse(self, response):
