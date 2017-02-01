@@ -14,7 +14,7 @@ Data Set consist of next fields:
 
 For crawlin was used Scrapy. For more information including a list of features check the Scrapy homepage at: http://scrapy.org
 
-For work with data set was create jupyter notebook news_analytics.ipynb
+For work with data set was create jupyter notebook https://github.com/andriipetruk/techcrunch_dataset/blob/master/news_analytics.ipynb
 
 
 Usage
@@ -35,6 +35,6 @@ https://raw.githubusercontent.com/andriipetruk/techcrunch_dataset/master/news.js
 #### How to run notebook
 ```
 1. jupyter notebook
-2. in web UI of jupiter open news_analytics.ipynb notebook
+2. in web UI of jupyter open news_analytics.ipynb 
 ```
 
