@@ -1,5 +1,5 @@
 ======
- Tech Crunch dataset
+ Tech Crunch dataset 
 ======
 
 Overview
@@ -14,17 +14,13 @@ Data Set consist of next fields:
 
 For crawlin was used Scrapy. For more information including a list of features check the Scrapy homepage at: http://scrapy.org
 
-Requirements
-============
+For work with data set was create jupyter notebook news_analytics.ipynb
 
-* Python 2.7 or Python 3.3+
-* Scrapy
-* Works on Linux, Windows, Mac OSX, BSOverview
 
 Usage
 ============
 
-#### Data set in json format (2016-10-05 05:00:59 - 2017-01-21 03:31:03)
+#### Data set in json format 
 
 https://raw.githubusercontent.com/andriipetruk/techcrunch_dataset/master/news.json
 
@@ -34,5 +30,11 @@ https://raw.githubusercontent.com/andriipetruk/techcrunch_dataset/master/news.js
 1. git clone git@github.com:andriipetruk/techcrunch_dataset.git
 2. cd techcrunch_dataset
 3. ./data_mining.sh
+```
+
+#### How to run notebook
+```
+1. jupyter notebook
+2. in web UI of jupiter open news_analytics.ipynb notebook
 ```
 
